@@ -1,2 +1,5 @@
 # TPO_programming2
-## TPO para la materia de programacion 2 , tiene un pdf con la parte teorica y luego lo que implementamos en JAVA.
+## TPO para la materia de programación 2
+# El archivo pdf contiene la parte teórica 
+## El arhcivo src contiene lo implementamos en JAVA.
+
